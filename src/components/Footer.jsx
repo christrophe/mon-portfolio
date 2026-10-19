@@ -12,7 +12,7 @@ function Footer() {
 
           <div className="flex gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/christrophe"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-white transition-colors text-xl"
@@ -20,7 +20,7 @@ function Footer() {
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/christo-evans-75276435b"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-indigo-400 transition-colors text-xl"

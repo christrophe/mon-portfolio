@@ -51,7 +51,7 @@ function Hero() {
 
             <div className="flex gap-6 justify-center md:justify-start mt-10">
               <a
-                href="https://github.com"
+                href="https://github.com/christrophe"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-white text-2xl transition-colors duration-300"
@@ -78,12 +78,6 @@ function Hero() {
               <div className="relative w-70 h-70 md:w-90 md:h-90 rounded-full overflow-hidden border-4 border-indigo-500/50 shadow-2xl shadow-indigo-500/20">
 
                 <img src={maPhoto} alt="Ma photo" className="w-full h-full object-cover" />
-
-
-
-                <div className="w-full h-full bg-gradient-to-br from-indigo-600 to-purple-700 flex items-center justify-center">
-                  <span className="text-7xl md:text-8xl">👨‍💻</span>
-                </div>
               </div>
 
 
