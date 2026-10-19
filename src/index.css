@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* =============================================
+   STYLES GLOBAUX DU PORTFOLIO
+   ============================================= */
+
+/* Smooth scroll pour les liens de navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Style du scrollbar personnalisé */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #6c63ff;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7c74ff;
+}
