@@ -1,6 +1,6 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiArrowDown } from "react-icons/hi";
-import maPhoto from "../assets/photo.jpg"
+import maPhoto from "../assets/photo.JPG";
 
 function Hero() {
   return (
